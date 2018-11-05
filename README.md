@@ -1,2 +1,9 @@
 # easyOSGEarth
-this is an application by osg &amp; osgearth
+这是一个三维GIS应用，使用了osg和osgearth开源库，因此遵循开源原则
+它能做些什么？
+1、你可以在地球上添加倾斜摄影处理的三维层级模型（osgb格式）
+2、你可以添加单体模型（支持obj、osgb、dae等）
+3、你可以使用双屏对比功能，两个地球视景器同步工作，方便做对比
+4、你可以绘制、测量
+5、你可以对自己添加的素材进行分组管理
+
